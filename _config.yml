@@ -44,14 +44,9 @@ plugins:
  - jekyll-feed
  - jekyll-seo-tag
 
-comments:
-  active: giscus
-  giscus:
-    repo: qingzhuan21/qingzhuan21.github.io
-    repo_id: R_kgDONw5HQA
-    category: Comments
-    category_id: DIC_kwDONw5HQM4Cmat0
-    mapping: pathname
-    input_position: # optional, default to 'bottom'
-    lang: # optional, default to the value of `site.lang`
-    reactions_enabled: # optional, default to the value of `1
+
+giscus_repo: qingzhuan21/qingzhuan21.github.io
+giscus_repo_id: R_kgDONw5HQA
+giscus_category: Comments
+giscus_category_id: DIC_kwDONw5HQM4Cmat0
+
