@@ -43,3 +43,12 @@ theme: minima
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
+
+comments:
+  active: giscus
+  giscus:
+    repo: qingzhuan21/qingzhuan21
+    repo_id: R_kgDONw5HQA
+    category: Comments
+    category_id: DIC_kwDONw5HQM4Cmat0
+    mapping: pathname
