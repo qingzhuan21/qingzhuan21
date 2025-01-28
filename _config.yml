@@ -47,7 +47,7 @@ plugins:
 comments:
   active: giscus
   giscus:
-    repo: qingzhuan21/qingzhuan21
+    repo: qingzhuan21/qingzhuan21.github.io
     repo_id: R_kgDONw5HQA
     category: Comments
     category_id: DIC_kwDONw5HQM4Cmat0
