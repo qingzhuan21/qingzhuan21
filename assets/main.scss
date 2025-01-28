@@ -4,8 +4,10 @@
 
 @import "minima";
 
+
 .site-title::before {
-    content: url("/assets/LogoRaro.jpg");
+    content: url("{{ site.baseurl }}/assets/LogoRaro.jpg");
+//     content: url("/assets/LogoRaro.jpg");
     display: inline-block;
     position: relative;
     width: 32px;
